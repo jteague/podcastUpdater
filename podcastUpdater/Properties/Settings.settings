@@ -1,0 +1,42 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="podcastUpdater.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ftpHost" Type="System.String" Scope="User">
+      <Value Profile="(Default)">server76.web-hosting.com</Value>
+    </Setting>
+    <Setting Name="ftpDirectory" Type="System.String" Scope="User">
+      <Value Profile="(Default)">public_html/jeremiahteague.com/podcast/onTheDriveHome</Value>
+    </Setting>
+    <Setting Name="ftpUsername" Type="System.String" Scope="User">
+      <Value Profile="(Default)">frabst</Value>
+    </Setting>
+    <Setting Name="ftpPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">tlubunerithapulufranifrcl</Value>
+    </Setting>
+    <Setting Name="ftpPort" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">21</Value>
+    </Setting>
+    <Setting Name="ftpSavePassword" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="previousRssLocation" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="previousAudioLocation" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="defaults_episodeKeywords" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Movies, Pop Culture</Value>
+    </Setting>
+    <Setting Name="defaults_episodeSubtitle" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Movie reviews</Value>
+    </Setting>
+    <Setting Name="httpBaseAddress" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://jeremiahteague.com/podcast/onTheDriveHome</Value>
+    </Setting>
+    <Setting Name="remoteRssFileLocation" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
